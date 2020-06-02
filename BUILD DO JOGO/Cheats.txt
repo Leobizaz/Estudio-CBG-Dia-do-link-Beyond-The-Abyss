@@ -1,0 +1,5 @@
+Aperte F1 para ligar/desligar invencibilidade
+Aperte F2 para desbloquear a upgrade "flash"
+
+Disponibilizamos um mapa para encontrar os logs, caso deseje.
+O objetivo é chegar em "fim da demo", os logs são opcionais
