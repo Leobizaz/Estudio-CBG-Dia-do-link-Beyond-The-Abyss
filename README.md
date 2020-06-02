@@ -6,6 +6,10 @@ LINK ALTERNATIVO:
 
 https://drive.google.com/file/d/1UpojJ8J2KO3MmwkyHGTT6DtnBRvSjuz9/view?usp=sharing
 
+VIDEO DE GAMEPLAY:
+
+https://youtu.be/J7sKLSAXhcA
+
 Integrantes:
 
 Alessandra Ogawa - 21002600
