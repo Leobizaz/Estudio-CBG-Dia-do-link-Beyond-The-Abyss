@@ -2,23 +2,26 @@
 
 PARA BAIXAR O PROJETO, CLIQUE EM CLONAR OU FAZER DOWNLOAD
 
+LINK ALTERNATIVO: 
+
+https://drive.google.com/file/d/1UpojJ8J2KO3MmwkyHGTT6DtnBRvSjuz9/view?usp=sharing
 
 Integrantes:
 
-Alessandra Ogawa
+Alessandra Ogawa - 21002600
 
-Arnei Tcheou
+Arnei Tcheou - 20923595
 
-Felipe Abdalla
+Felipe Abdalla - 20973718
 
-Guilherme Kfouri
+Guilherme Kfouri - 20960182
 
-Guilhermo Lopez
+Guilhermo Lopez - 21025725
 
-Igor Garcia
+Igor Garcia - 20953767
 
-Leonardo Villar
+Leonardo Villar - 20928350
 
-Pedro Vilas Boas
+Pedro Vilas Boas - 20908603
  
 Nome do jogo: Beyond The Abyss
