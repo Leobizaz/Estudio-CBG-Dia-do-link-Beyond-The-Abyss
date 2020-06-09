@@ -2,7 +2,7 @@
 
 PARA BAIXAR O PROJETO, CLIQUE EM CLONAR OU FAZER DOWNLOAD
 
-VIDEO DE APRESENTAÇÃO PARA BANCA:
+<bold>VIDEO DE APRESENTAÇÃO PARA BANCA:</bold>
 
 https://www.youtube.com/watch?v=YfwjZGV5EE8&feature=youtu.be
 
